@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<title>Squaredle | Frequently Asked Questions</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Response is fresh for 1 day, can be used for 7 days when revalidating in
+  the background -->
+<meta http-equiv="Cache-Control" content="max-age=86400, stale-while-revalidate=604800">
+
+<style>
+  header a {
+    color: var(--high-contrast) !important;
+    text-decoration: none;
+  }
+  #outerContainer {
+    overflow: auto;
+  }
+  #outerContainer > main {
+    max-width: 650px;
+    display: block;
+    font-size: 1rem;
+    overflow: visible;
+    padding: 0 1em;
+  }
+  #outerContainer > main[hidden] {
+    display: none;
+  }
+  .backToTop {
+    font-size: 80%;
+  }
+  #toc a {
+    color: unset !important;
+    text-decoration: none;
+  }
+  #toc > li > a {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  a:not([href]) {
+    color: unset !important;
+  }
+  h2 {
+    font-size: 2em;
+      margin-bottom: 0.5em;
+  }
+  h3 {
+    font-size: 1.4em;
+      margin-bottom: 0.5em;
+  }
+</style>
+
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute">
+  <defs>
+    <symbol id="icon-squared" style="fill: gold" viewbox="0 0 24 24">
+      <rect height="9" width="9" x="2" y="2"></rect>
+      <rect height="9" width="9" x="14" y="2"></rect>
+      <rect height="9" width="9" x="2" y="14"></rect>
+      <rect height="9" width="9" x="14" y="14"></rect>
+    </symbol>
+    <symbol id="icon-star" viewbox="0 0 24 24">
+      <path d="M12,17.27L18.18,21L16.54,13.97L22,9.24L14.81,8.62L12,2L9.19,8.62L2,9.24L7.45,13.97L5.82,21L12,17.27Z"></path>
+    </symbol>
+  </defs>
+</svg>
+
+<!-- Header bar -->
+
+<header>
+  <div class="primaryContent">
+    <div class="headerTopButton left">
+    </div>
+    <span id="title"><a href="index.htm">Squaredle</a></span>
+    <div></div>
+  </div>
+</header>
+
+<!-- Main content area -->
+
+<div id="outerContainer">
+
+<main class="primaryContent" hidden="">
+  <a name="top"></a>
+  <h1>Frequently Asked Questions</h1>
+
+  <ul id="toc"></ul>
+
+  <h2>Words</h2>
+
+  <h3>What is a valid word?</h3>
+  <p>
+    Squaredle uses the official <strong>North American
+    Scrabble Players word list</strong> (NWL2023). Only words in that list are
+    valid (apart from a handful of other words that are longer than Scrabble's
+    15-character limit).
+  </p>
+
+  <p>
+    Notably, only lowercase English words are valid.
+    Proper nouns and
+    adjectives, such as "Dane", "Santa", or "Irish", are not valid; nor are
+    abbreviations, initialisms, nonstandard words, or hyphenated words.
+    Prefixes, suffixes, and parts of of multi-word terms (e.g. "diem" from "per
+    diem") are also invalid, unless they're found in NWL2023 as standalone
+    words.
+  </p>
+
+  <p>
+    You might see some words in Squaredle that look like proper nouns &mdash;
+    that means they're valid lowercase words, e.g. fine <em>china</em> or a
+    <em>panama</em> hat.
+  </p>
+  <a href="#top" class="backToTop">back to top</a>
+<h3>How do you determine bonus words?</h3>
+<p>It's often a judgment call.</p>
+
+<p>
+  We start from an American English word frequency list, so infrequently used
+  words are typically bonus words. We also check a few dictionaries to see if
+  words are categorized as dialectical, archaic, or obsolete. Finally, we use
+  our
+  judgment, our own experiences, and comments from friends and the Squaredle
+  community to determine whether enough people are aware of a word to make it
+  required, including a voting system in our
+  <a href="https://discord.gg/Pkad9p4rsq">Discord chat server</a>.
+</p>
+
+<p>We try to err on the side of "bonus word", since if you don't know a required word, you have to brute-force the puzzle to find it &mdash; which isn't very fun.</p>
+
+<p>
+  Read more about our thought process in
+  <a href="https://blog.squaredle.app/making-of-squaredle">
+    The Making of a Squaredle</a>.
+</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>Why is today's puzzle so hard?</h3>
+<p>We try to publish the easiest puzzles on Mondays and the hardest on Fridays. But our difficulty rating is a "guesstimate" &mdash; the puzzle might be easier or harder than the number of stars would suggest.</p>
+
+<p>Having trouble? Twelve hours after each puzzle releases, you can enable hints in the word list &mdash; these will show you the alphabetical order of the words you're missing, as well as their starting letter(s).</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>How do I see the answers?</h3>
+<p>Regular daily puzzles: You can find the answers tomorrow by opening the word list (tap the word count at the top) and tapping the "Yesterday" tab.</p>
+<p>An "end puzzle" option is coming soon.</p>
+
+<p>Special puzzles: Answers are coming soon!</p>
+<a href="#top" class="backToTop">back to top</a>
+<h2>Leaderboards & Scores</h2>
+<h3>How are the leaderboards sorted?</h3>
+<p>The leaderboards are sorted by word count, then by one of 3 tie breakers you can choose: bonus word count, accuracy, or speed.</p>
+
+<p>After that, ties are broken based on who completed the puzzle earlier.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>What impacts my accuracy ranking?</h3>
+<p>
+  Your accuracy is the number of
+  <strong>required words</strong> you've found, divided by the total number of
+  <strong>required words</strong> and <strong>non-words</strong> you've
+  submitted.
+</p>
+
+<p>Only "Not a word" and "Not a word: proper noun" hurt your accuracy score. "Too short", "Already found", and bonus words don't impact your accuracy.</p>
+
+<p>Entering the same non-word again DOES count against your accuracy again.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>What impacts my speed ranking?</h3>
+<p>Your personal stopwatch runs whenever the game is visible unless a pop-up is open. You can pause the stopwatch by opening a pop-up, hiding the browser tab, minimizing the browser, or putting your device to sleep.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>How do I see my time?</h3>
+<p>Enable the timer in Settings to show your game time below the game board.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>Can we see times or accuracy on the leaderboard?</h3>
+<p>No, sorry. We've heard from many players that they don't want their time or accuracy to be shared with other players.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>How do I find my friends on the leaderboard?</h3>
+<p>
+  You can star <svg class="inline-icon"><use href="#icon-star"></use></svg>
+  someone on the leaderboard to follow them. You'll see their scores even when they're not in the top 500, and you can see them in one place by switching your view from Global to Favorites.</p>
+
+<p>If you can't find your friends on the leaderboard, ask them for their link! Tap "Compare with friends" to find your own link at the bottom of the leaderboard. When someone opens your link, their device will automatically favorite you in the leaderboard so they can find you.</p>
+<p>When you open someone else's link, you'll automatically favorite them.</p>
+
+<p>We're working on making finding friends easier. Stay tuned!</p>
+<a href="#top" class="backToTop">back to top</a>
+
+<h3>What does the asterisk * mean in the Share text?</h3>
+<p>An <strong>asterisk</strong> * next to your word count means you solved the puzzle without using any hints or reveals from the word list. Nice job!</p>
+<a href="#top" class="backToTop">back to top</a>
+
+<h2>Mechanics</h2>
+<h3>How do I enter words using a physical keyboard?</h3>
+<p>Just type out the word and press &lt;<code>Enter</code>&gt;. The grid will adjust to select the right letters to form your word.</p>
+<p>Use &lt;<code>Backspace</code>&gt; to delete a letter.</p>
+<p>The &lt;<code>Space&nbsp;bar</code>&gt; toggles between squares that have the same letter, if you're a visual thinker.</p>
+<a href="#top" class="backToTop">back to top</a>
+
+<h3>What does the reload button next to the board do?</h3>
+<p>It's actually a rotate button. Try it! It won't reset your game.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>What are the globe and star icons in the progress bar?</h3>
+<p>The globe represents the current average progress in today's puzzle by all players.</p>
+
+<p>The star shows when you'll receive the next perk.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>What do the numbers inside a square mean? What are the perks?</h3>
+<p>Each day, you start with a fresh board. As you earn points, you earn perks for that day's puzzle:</p>
+
+<ol>
+  <li>
+    Squares show a number in the bottom left corner representing how many words
+    <strong>start with that square</strong>.
+  </li>
+  <li>
+    Squares show a number in the bottom right corner representing how many words
+    <strong>include that square</strong> (anywhere in the word).
+  </li>
+  <li>
+    Hints are unlocked in the <strong>word list</strong>, letting you sort your
+    missing words alphabetically and see their starting letter.
+  </li>
+</ol>
+<a href="#top" class="backToTop">back to top</a>
+
+<h3>What does the + (plus sign) inside a square mean?</h3>
+<p>
+  In larger puzzles, a <strong>+</strong> just means there are 10 or more
+  words that start with (or use) that square &mdash; too many to fit in a small
+  space!
+</p>
+<a href="#top" class="backToTop">back to top</a>
+
+<h3>Why do some letters fade out?</h3>
+<p>Squares fade out when they're no longer used in any required words. You can safely ignore those squares, unless you're looking for bonus words!</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>Can I still find bonus words when letters fade out?</h3>
+<p>Yes, faded out letters can still be used to find bonus words. They're just a bit harder to select; you need to drag over the very center part of the square.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>How do I cancel a word I'm entering?</h3>
+<p>Swipe up to the top of the page to quickly cancel your word without impacting your accuracy.</p>
+
+<p>On a physical keyboard, press the <code>Esc</code> key.</p>
+<a href="#top" class="backToTop">back to top</a>
+<h2>Squaredle Squared</h2>
+<h3>How do I sign up for Squaredle Squared?</h3>
+<p>Sign up for a <a href="index.htm#premiumSignup">monthly or annual membership</a> with a credit card, Apple Pay, Google Pay, or PayPal.</p>
+<p>
+  If you'd like to support Squaredle by paying more for your membership &mdash;
+  $6/month or more &mdash; you can also sign up for Squaredle Squared via
+  <a href="https://ko-fi.com/squaredle/tiers">Ko-fi Memberships</a>.
+  Select the "Square" tier or higher. This also gives you access to
+  the Beta!
+</p>
+<a href="#top" class="backToTop">back to top</a>
+
+<h3>What are the benefits of Squaredle Squared?</h3>
+<ul>
+  <li>Remove ads.</li>
+  <li>Play the archive: Play any daily puzzle from the past, dating back to March 6, 2022. You can also replay a puzzle from scratch for more replayability!</li>
+  <li>Weekly specials: A new subscriber-only puzzle is released every Monday. These puzzles are only available for one week &mdash; there's no archive. Get them while they're hot!</li>
+  <li>More theme options: Choose the font for the board.</li>
+  <li>Unlock perks faster: Get access to hints (red and white numbers on the board, hints in the word list) earlier in each puzzle. This is optional and can be disabled in Settings.</li>
+  <li>Reveal 4 words every day: You can reveal a 4, 5, or 6-letter word, four times per puzzle.</li>
+  <li>
+    Premium icon
+    <svg class="inline-icon"><use href="#icon-squared"></use></svg>
+    next to your leaderboard scores.
+  </li>
+  <li>45&deg; board rotation. This is an in-between rotation that can help you see the grid in a new light.</li>
+  <li>Support development &amp; hosting costs of Squaredle. We've been able to invest revenues from Squaredle Squared memberships into a more robust server and tools for development and testing, helping us verify  that the game works well on a range of devices.</li>
+</ul>
+<a href="#top" class="backToTop">back to top</a>
+
+<h3>How do I change or cancel my Squaredle Squared subscription?</h3>
+<p>
+  Most subscribers can manage their subscription or cancel auto-renewal in the
+  Squared section at the bottom of
+  <a href="index.htm#settings" target="_blank">the Settings window</a>.
+</p>
+<p>
+  Make sure you're signed in to the correct account, or your subscription won't
+  show up.
+</p>
+<p>
+  If you need help canceling your subscription, please
+  <a href="index.htm#feedback" target="_blank">submit feedback</a>
+  and be sure to include your email address.
+</p>
+<a href="#top" class="backToTop">back to top</a>
+
+<h2>More</h2>
+<h3>How do I ask more questions?</h3>
+<p>
+  If you've read this far, you must really like Squaredle! Join our
+  <a href="https://discord.gg/Pkad9p4rsq">chat community in Discord</a> for free
+  to talk with the Squad and fellow players about all things Squaredle.
+</p>
+<p>
+  You can also ask a question privately by
+  <a href="index.htm#feedback">submitting feedback</a>.
+</p>
+<a href="#top" class="backToTop">back to top</a>
+<h3>How can I help?</h3>
+<p>
+  <strong>Most importantly: Tell your friends about Squaredle!</strong>
+</p>
+
+<p>
+  Please <a href="index.htm#feedback">submit feedback</a>
+  if you have suggestions, ideas, bug reports or questions. We read every
+  comment!
+</p>
+
+<p>
+  Support the server by signing up for
+  <a href="index.htm#premiumSignup">Squaredle Squared</a>,
+  the premium membership that lets you play puzzles from the archive and more.
+  Or, <a href="https://ko-fi.com/squaredle">donate directly to Squaredle</a>.
+</p>
+
+<p><a href="https://merch.squaredle.app">Official merch
+    for sale!</a> Comfy shirts &amp; hoodies and beautiful, nerdy mugs.</p>
+
+<p>We're privileged to have a "Squaredle Squad" consisting of real players who
+  work hard to improve the game. So your support means a lot to all of us!</p>
+
+<a href="#top" class="backToTop">back to top</a>
+
+<p>
+  <a href="index.htm" class="backToTop">Squaredle.app</a>
+</p>
+
+</main>
+
+<script src="faqs.js"></script>
+
+</div></body>
+</head></html>

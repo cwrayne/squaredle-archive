@@ -1,0 +1,532 @@
+Uri: https://squaredle.app/
+File Name: C:\Downloaded Web Sites\squaredle.app\index.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/?level=xp
+File Name: C:\Downloaded Web Sites\squaredle.app\index-5.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/?puzzle=hannukah
+File Name: C:\Downloaded Web Sites\squaredle.app\index-3.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/?puzzle=kwanzaa
+File Name: C:\Downloaded Web Sites\squaredle.app\index-1.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/?puzzle=weekly
+File Name: C:\Downloaded Web Sites\squaredle.app\index-4.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/?puzzle=xmas
+File Name: C:\Downloaded Web Sites\squaredle.app\index-2.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/api/today-puzzle-config.js
+File Name: C:\Downloaded Web Sites\squaredle.app\api\today-puzzle-config.js
+Content Type: application/javascript
+
+Uri: https://squaredle.app/article.css
+File Name: C:\Downloaded Web Sites\squaredle.app\article.css
+Content Type: text/css
+
+Uri: https://squaredle.app/beta-faqs.html
+File Name: C:\Downloaded Web Sites\squaredle.app\beta-faqs.html
+Content Type: text/html
+
+Uri: https://squaredle.app/beta/
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\index.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/beta/?level=xp
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\index-5.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/beta/?puzzle=hannukah
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\index-3.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/beta/?puzzle=kwanzaa
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\index-1.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/beta/?puzzle=weekly
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\index-4.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/beta/?puzzle=xmas
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\index-2.htm
+Content Type: text/html
+
+Uri: https://squaredle.app/beta/closure-v3-22-10.js
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\closure-v3-22-10.js
+Content Type: application/javascript
+
+Uri: https://squaredle.app/beta/fonts/clearsans-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\clearsans-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/clearsans-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\clearsans-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/ClearSans-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\ClearSans-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/clearsans-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\clearsans-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/clearsans-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\clearsans-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/ClearSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\ClearSans-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/DancingScript-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\DancingScript-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/DancingScript-Bold.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\DancingScript-Bold.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/DancingScript-Bold.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\DancingScript-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/DancingScript-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\DancingScript-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/DancingScript-Regular.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\DancingScript-Regular.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/DancingScript-Regular.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\DancingScript-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/EBGaramond-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\EBGaramond-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/EBGaramond-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\EBGaramond-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/Inconsolata-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Inconsolata-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/Inconsolata-Bold.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Inconsolata-Bold.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/Inconsolata-Bold.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Inconsolata-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/Inconsolata-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Inconsolata-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/Inconsolata-Regular.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Inconsolata-Regular.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/Inconsolata-Regular.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Inconsolata-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/kalam-bold-webfont.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\kalam-bold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/kalam-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\kalam-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/kalam-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\kalam-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/kalam-regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\kalam-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/kalam-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\kalam-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/kalam-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\kalam-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/merriweather-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\merriweather-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/merriweather-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\merriweather-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/Merriweather-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Merriweather-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/merriweather-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\merriweather-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/merriweather-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\merriweather-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/Merriweather-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Merriweather-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/nautilus-webfont.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\nautilus-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/nautilus-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\nautilus-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/nautilus-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\nautilus-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/paytoneone-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\paytoneone-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/paytoneone-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\paytoneone-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/PaytoneOne-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\PaytoneOne-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/Roboto-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Roboto-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/Roboto-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Roboto-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/Roboto-Italic.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Roboto-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/Roboto-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\Roboto-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/fonts/specialelite-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\specialelite-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/beta/fonts/specialelite-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\specialelite-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/beta/fonts/SpecialElite-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\fonts\SpecialElite-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/beta/icons/favicon.svg
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\icons\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://squaredle.app/beta/icons/icon-512.png
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\icons\icon-512.png
+Content Type: image/png
+
+Uri: https://squaredle.app/beta/images/shop.png
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\images\shop.png
+Content Type: image/png
+
+Uri: https://squaredle.app/beta/manifest2.webmanifest
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\manifest2.webmanifest
+Content Type: 
+
+Uri: https://squaredle.app/beta/style-v3-22-10.css
+File Name: C:\Downloaded Web Sites\squaredle.app\beta\style-v3-22-10.css
+Content Type: text/css
+
+Uri: https://squaredle.app/closure-v3-22-10.js
+File Name: C:\Downloaded Web Sites\squaredle.app\closure-v3-22-10.js
+Content Type: application/javascript
+
+Uri: https://squaredle.app/common/icons/discord-light.png
+File Name: C:\Downloaded Web Sites\squaredle.app\common\icons\discord-light.png
+Content Type: image/png
+
+Uri: https://squaredle.app/common/icons/discord.png
+File Name: C:\Downloaded Web Sites\squaredle.app\common\icons\discord.png
+Content Type: image/png
+
+Uri: https://squaredle.app/common/icons/facebook.png
+File Name: C:\Downloaded Web Sites\squaredle.app\common\icons\facebook.png
+Content Type: image/png
+
+Uri: https://squaredle.app/common/icons/fb.png
+File Name: C:\Downloaded Web Sites\squaredle.app\common\icons\fb.png
+Content Type: image/png
+
+Uri: https://squaredle.app/common/icons/reddit.png
+File Name: C:\Downloaded Web Sites\squaredle.app\common\icons\reddit.png
+Content Type: image/png
+
+Uri: https://squaredle.app/common/icons/twitter.png
+File Name: C:\Downloaded Web Sites\squaredle.app\common\icons\twitter.png
+Content Type: image/png
+
+Uri: https://squaredle.app/faqs.html
+File Name: C:\Downloaded Web Sites\squaredle.app\faqs.html
+Content Type: text/html
+
+Uri: https://squaredle.app/faqs.js
+File Name: C:\Downloaded Web Sites\squaredle.app\faqs.js
+Content Type: application/javascript
+
+Uri: https://squaredle.app/fonts/clearsans-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\clearsans-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/clearsans-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\clearsans-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/ClearSans-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\ClearSans-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/clearsans-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\clearsans-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/clearsans-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\clearsans-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/ClearSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\ClearSans-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/DancingScript-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\DancingScript-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/DancingScript-Bold.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\DancingScript-Bold.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/DancingScript-Bold.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\DancingScript-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/DancingScript-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\DancingScript-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/DancingScript-Regular.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\DancingScript-Regular.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/DancingScript-Regular.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\DancingScript-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/EBGaramond-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\EBGaramond-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/EBGaramond-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\EBGaramond-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/Inconsolata-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Inconsolata-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/Inconsolata-Bold.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Inconsolata-Bold.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/Inconsolata-Bold.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Inconsolata-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/Inconsolata-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Inconsolata-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/Inconsolata-Regular.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Inconsolata-Regular.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/Inconsolata-Regular.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Inconsolata-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/kalam-bold-webfont.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\kalam-bold-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/kalam-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\kalam-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/kalam-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\kalam-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/kalam-regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\kalam-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/kalam-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\kalam-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/kalam-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\kalam-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/merriweather-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\merriweather-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/merriweather-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\merriweather-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/Merriweather-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Merriweather-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/merriweather-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\merriweather-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/merriweather-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\merriweather-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/Merriweather-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Merriweather-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/nautilus-webfont.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\nautilus-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/nautilus-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\nautilus-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/nautilus-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\nautilus-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/paytoneone-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\paytoneone-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/paytoneone-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\paytoneone-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/PaytoneOne-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\PaytoneOne-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/Roboto-Bold.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Roboto-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/Roboto-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Roboto-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/Roboto-Italic.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Roboto-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/Roboto-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\Roboto-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/fonts/specialelite-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\specialelite-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://squaredle.app/fonts/specialelite-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\specialelite-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://squaredle.app/fonts/SpecialElite-Regular.ttf
+File Name: C:\Downloaded Web Sites\squaredle.app\fonts\SpecialElite-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://squaredle.app/icons/favicon-120.png
+File Name: C:\Downloaded Web Sites\squaredle.app\icons\favicon-120.png
+Content Type: image/png
+
+Uri: https://squaredle.app/icons/favicon-180.png
+File Name: C:\Downloaded Web Sites\squaredle.app\icons\favicon-180.png
+Content Type: image/png
+
+Uri: https://squaredle.app/icons/favicon-32.png
+File Name: C:\Downloaded Web Sites\squaredle.app\icons\favicon-32.png
+Content Type: image/png
+
+Uri: https://squaredle.app/icons/favicon.svg
+File Name: C:\Downloaded Web Sites\squaredle.app\icons\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://squaredle.app/icons/icon-512.png
+File Name: C:\Downloaded Web Sites\squaredle.app\icons\icon-512.png
+Content Type: image/png
+
+Uri: https://squaredle.app/images/shop.png
+File Name: C:\Downloaded Web Sites\squaredle.app\images\shop.png
+Content Type: image/png
+
+Uri: https://squaredle.app/manifest2.webmanifest
+File Name: C:\Downloaded Web Sites\squaredle.app\manifest2.webmanifest
+Content Type: 
+
+Uri: https://squaredle.app/privacy
+File Name: C:\Downloaded Web Sites\squaredle.app\privacy.html
+Content Type: text/html
+
+Uri: https://squaredle.app/style-v3-22-10.css
+File Name: C:\Downloaded Web Sites\squaredle.app\style-v3-22-10.css
+Content Type: text/css
+
+Uri: https://squaredle.app/style.css
+File Name: C:\Downloaded Web Sites\squaredle.app\style.css
+Content Type: text/css
+
+Uri: https://squaredle.app/terms
+File Name: C:\Downloaded Web Sites\squaredle.app\terms.html
+Content Type: text/html
+
+Uri: https://storage.ko-fi.com/cdn/cup-border.png
+File Name: C:\Downloaded Web Sites\squaredle.app\cdn\cup-border.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-SXC0D18MH7
+File Name: C:\Downloaded Web Sites\squaredle.app\gtag\js
+Content Type: application/javascript
+

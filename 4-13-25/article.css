@@ -1,0 +1,141 @@
+@font-face {
+  font-family: RobotoWeb;
+  src: local('Roboto'), url('fonts/Roboto-Regular.ttf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: RobotoWeb;
+  src: local('Roboto Italic'), url('fonts/Roboto-Italic.ttf');
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: RobotoWeb;
+  src: local('Roboto Bold'), url('fonts/Roboto-Bold.ttf');
+  font-weight: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: RobotoWeb;
+  src: local('Roboto Bold Italic'), url('fonts/Roboto-BoldItalic.ttf');
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+}
+
+html {
+  color-scheme: dark light;
+}
+
+body {
+  margin: 0;
+
+  --text-on-primary-color: white;
+  --opposite-text-on-primary-color: black;
+
+  --color: #e0e0e0;
+  --color-half: #707070;
+  --high-contrast: #fff;
+  --primary: #b82828;
+  --primary-active: hsl(0, 64%, 48%);
+  --primary-hover: hsl(0, 64%, 40%);
+  --primary-half: rgba(184, 40, 40, 0.5);
+  --primary-shaded: hsl(0, 64%, 30%);
+  --secondary: hsl(180, 67%, 38%);
+  --secondary-active: hsl(180, 67%, 42%);
+  --secondary-hover: hsl(180, 67%, 34%);
+  --background-color: #000000;
+  --form-background-color: #383838;
+  --form-border-color: #b0b0b0;
+  --letter-background-color: #202020;
+
+  color: var(--color);
+  background-color: var(--background-color);
+
+  font-family: RobotoWeb, Roboto, Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: light) {
+  body:not(.dark) {
+    color-scheme: light;
+
+    --color: #1a1a1a;
+    --color-half: #8c8c8c;
+    --high-contrast: #000;
+    --background-color: #fff;
+    --form-background-color: #ccc;
+    --form-border-color: #444;
+    --form-disabled-border-color: rgba(140, 140, 140, 0.3);
+    --letter-background-color: #e0e0e0;
+  }
+}
+
+header {
+  background-color: var(--primary);
+  padding-bottom: 0.25em;
+}
+
+header, header a {
+  color: var(--text-on-primary-color) !important;
+}
+
+header a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 2em;
+}
+
+main {
+  font-size: 1em;
+  padding: 12px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+main > h1:first-child {
+  margin-top: 0.25em;
+}
+
+a, a:visited {
+  color: var(--primary);
+}
+
+a:hover {
+  color: var(--primary-hover);
+}
+
+a:active {
+  color: var(--primary-active);
+}
+
+code {
+  background-color: var(--letter-background-color);
+  margin: 0 1em;
+  text-align: center;
+  display: block;
+  font-size: 1.2em;
+  padding: 0.5em;
+}
+
+p, li {
+  line-height: 1.4;
+}
+
+p.img {
+  text-align: center;
+}
+
+img.grid {
+  /* Show 2x image at half resolution. */
+  width: 280px;
+  /* Don't extend past page width. */
+  max-width: 100%;
+}
+
+li > dt:first-child {
+  display: inline;
+}
